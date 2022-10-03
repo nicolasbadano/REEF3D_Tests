@@ -1,1 +1,8 @@
 animations/*
+*.vtu
+*.vtm
+*.dat
+*.pvtu
+*.vtp
+DIVEMesh*
+log
